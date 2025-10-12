@@ -9,6 +9,9 @@
 </p>
 
 <h1 align="center">🕸️🎃👻 MRALIENCITO 👽👻🎃🕸️</h1>
+<a href="https://buymeacoffee.com/aliencitoc2" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40">
+</a>
 
 <p align="center">
   <em>Construyendo cosas con estética retro-futurista, 8-bit y mucha energía alien.</em>
