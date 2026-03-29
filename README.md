@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hola, soy **MrAliencito**
+# 👋 Hola, soy **Aliencito**
 
 **Full‑Stack Developer** · Node.js · TypeScript · PostgreSQL
 
