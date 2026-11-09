@@ -43,7 +43,7 @@
     <td align="center" width="33%">
       <img src="https://skillicons.dev/icons?i=githubactions" width="48" alt="GitHub Actions" /><br/>
       <b>Entrega</b><br/>
-      <sub>GitHub Actions y Docker</sub>
+      <sub>GitHub Actions y Vercel</sub>
     </td>
   </tr>
 </table>
@@ -58,7 +58,7 @@
 
 **Interfaz y entrega**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,docker,git,githubactions,vercel&perline=8" alt="React, Next.js, Tailwind, Vite, Docker, Git, GitHub Actions y Vercel" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,git,githubactions,vercel&perline=7" alt="React, Next.js, Tailwind, Vite, Git, GitHub Actions y Vercel" />
 
 </div>
 
