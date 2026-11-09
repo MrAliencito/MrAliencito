@@ -5,13 +5,13 @@
 <h1>Aliencito</h1>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=3400&pause=700&color=5EEAD4&center=true&vCenter=true&width=720&height=50&lines=Full-stack%2C+con+el+peso+en+el+backend;Node.js+%C2%B7+TypeScript+%C2%B7+PostgreSQL;APIs%2C+datos+y+entrega+automatizada;Ahora%3A+Carga+Horaria" />
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=3400&pause=700&color=0F766E&center=true&vCenter=true&width=720&height=50&lines=Full-stack%2C+con+el+peso+en+el+backend;Node.js+%C2%B7+TypeScript+%C2%B7+PostgreSQL;APIs%2C+datos+y+entrega+automatizada;Ahora%3A+Carga+Horaria" alt="Full-stack, con el peso en el backend" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=3400&pause=700&color=5EEAD4&center=true&vCenter=true&width=720&height=50&lines=Full-stack%2C+con+el+peso+en+el+backend;Node.js+%C2%B7+TypeScript+%C2%B7+PostgreSQL;APIs%2C+datos+e+interfaz;Ahora%3A+Carga+Horaria" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=3400&pause=700&color=0F766E&center=true&vCenter=true&width=720&height=50&lines=Full-stack%2C+con+el+peso+en+el+backend;Node.js+%C2%B7+TypeScript+%C2%B7+PostgreSQL;APIs%2C+datos+e+interfaz;Ahora%3A+Carga+Horaria" alt="Full-stack, con el peso en el backend" />
 </picture>
 
 <p>
   Desarrollador full-stack en Argentina.<br/>
-  APIs en Node.js y TypeScript, datos con Prisma y PostgreSQL, entrega con GitHub Actions.<br/>
+  APIs en Node.js y TypeScript, datos con Prisma y PostgreSQL.<br/>
   La interfaz entra cuando el producto la necesita.
 </p>
 
@@ -41,9 +41,9 @@
       <sub>Prisma, PostgreSQL y Supabase</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://skillicons.dev/icons?i=githubactions" width="48" alt="GitHub Actions" /><br/>
-      <b>Entrega</b><br/>
-      <sub>GitHub Actions y Vercel</sub>
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Next.js" /><br/>
+      <b>Interfaz</b><br/>
+      <sub>Next.js, React y Tailwind</sub>
     </td>
   </tr>
 </table>
@@ -56,9 +56,9 @@
 
 <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,prisma,postgres,supabase,sqlite&perline=8" alt="TypeScript, JavaScript, Node.js, Express, Prisma, PostgreSQL, Supabase y SQLite" />
 
-**Interfaz y entrega**
+**Interfaz**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,git,githubactions,vercel&perline=7" alt="React, Next.js, Tailwind, Vite, Git, GitHub Actions y Vercel" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,git,vercel&perline=6" alt="React, Next.js, Tailwind, Vite, Git y Vercel" />
 
 </div>
 
